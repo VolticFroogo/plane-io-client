@@ -1,0 +1,8 @@
+# Node.js dependencies
+node_modules/
+
+# Distributable
+dist/
+
+# IDE (IntelliJ IDEA) configuration files
+.idea/
